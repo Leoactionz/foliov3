@@ -2,16 +2,16 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Leonard Ugorji | UX Designer and Developer', // e.g: 'Name | Developer'
+  lang: 'en, es, fr, jp', // e.g: en, es, fr, jp
+  description: 'Welcome to the UX and Coding Designer Portfolio', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
+  title: 'Hi, I am',
+  name: 'Leonard Ugorji',
+  subtitle: 'A UX and Coding Designer who is on earth to craft epic users story',
   cta: '',
 };
 
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1jGhUuiOchl2q4Hy_6mc5fjQPzBlu6T5Q/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: '',
-    info: '',
+    info: 'jbjbklm',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
@@ -47,6 +47,15 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'profile.jpg',
     title: '',
     info: '',
     info2: '',
