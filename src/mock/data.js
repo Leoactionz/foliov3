@@ -11,14 +11,15 @@ export const headData = {
 export const heroData = {
   title: 'Hi, I am',
   name: 'Leonard Ugorji',
-  subtitle: 'A UX and Coding Designer who is on earth to craft epic users story',
+  subtitle: 'A UX and Coding Designer crafting epic user stories',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
+  paragraphOne:
+    'Leonard Ugorji is a designer and programming enthusiast; who unintentionally started his career at the back of the classroom in 2017, skipping meals to design on Maya.',
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://drive.google.com/file/d/1jGhUuiOchl2q4Hy_6mc5fjQPzBlu6T5Q/view?usp=sharing', // if no resume, the button will not show up
