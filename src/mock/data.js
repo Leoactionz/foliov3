@@ -38,7 +38,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'Unihelt Medical System',
     info: '',
     info2: '',
     url: '',
