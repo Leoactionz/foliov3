@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'Blinqpay Landing page Case Study',
     info: 'dffeffhrthrththrtht',
     info2: '',
     url: '',
