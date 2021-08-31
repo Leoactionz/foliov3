@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: '',
-    info: 'jbjbklm',
+    info: 'dffeffhrthrththrtht',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
