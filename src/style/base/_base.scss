@@ -5,4 +5,53 @@ html {
 body {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
+
+  .jumbotron {
+    animation: colorchange 25s infinite alternate;
+
+    @keyframes colorchange {
+      0% {
+        background-color: #FCF1ED;
+      }
+
+      10% {
+        background-color: #FAF4EB;
+      }
+
+      20% {
+        background-color: #F8F5EA;
+      }
+
+      30% {
+        background-color: #FCEEF5;
+      }
+
+      40% {
+        background-color: #f1f9ff;
+      }
+
+      50% {
+        background-color: #fff;
+      }
+
+      60% {
+        background-color: #f7fbff;
+      }
+
+      70% {
+        background-color: #f5fffb;
+      }
+      80% {
+        background-color: #fffdf6;
+      }
+
+      90% {
+        background-color: #f7fffc;
+      }
+
+      100% {
+        background-color: #f6fffc;
+      }
+    }
+  }
 }

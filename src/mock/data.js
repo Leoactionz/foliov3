@@ -11,8 +11,8 @@ export const headData = {
 export const heroData = {
   title: 'Hi, I am',
   name: 'Leonard Ugorji',
-  subtitle: 'A UX and Coding Designer crafting epic user stories',
-  cta: '',
+  subtitle: 'A UX and Coding Designer creating delightful user stories',
+  cta: 'Know more',
 };
 
 // ABOUT DATA
@@ -62,7 +62,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'profile.jpg',
-    title: '',
+    title: 'UI Designs',
     info: '',
     info2: '',
     url: '',
