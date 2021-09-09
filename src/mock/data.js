@@ -46,8 +46,8 @@ export const projectsData = [
     info: 'Patients find it difficult to see a doctor majorly in Nigeria. Aside from COVID 19,  a lot of people still require other medication attention',
     info2:
       "A platform will be needed to provide for the patients' needs in terms of consultation, getting prescribed drugs, locating nearby labs for testing, and health tips to enable individuals to stay healthy",
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    url: 'https://uxfol.io/project/049dd3ee/Unihelt---Manage-waiting-time-at-hospitals',
+    // repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -63,18 +63,18 @@ export const projectsData = [
     id: nanoid(),
     img: 'profile.jpg',
     title: 'UI Designs',
-    info: '',
+    info: 'Portfolio of some UI projects I played with since 2019. Including some open source projects where I contributed',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://dribbble.com/mLeoUC',
+    repo: 'https://github.com/mikhael28/paretOS', // if no repo, the button will not show up
   },
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: "Get in touch let's build something awesome",
+  btn: "Let's Talk",
+  email: 'leonardugorji@gmail.com',
 };
 
 // FOOTER DATA
@@ -83,12 +83,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/mLeoUC',
     },
     {
       id: nanoid(),
       name: 'dribbble',
-      url: '',
+      url: 'https://dribbble.com/mLeoUC',
     },
     // {
     //   id: nanoid(),
@@ -98,12 +98,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/leohimsef/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/mleou',
     },
   ],
 };

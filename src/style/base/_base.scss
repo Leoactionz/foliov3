@@ -7,23 +7,26 @@ body {
   text-align: center;
 
   .jumbotron {
-    animation: colorchange 25s infinite alternate;
+    animation: colorchange 45s infinite alternate;
+    transition: all 0.5s ease;
 
     @keyframes colorchange {
+
+
       0% {
-        background-color: #FCF1ED;
+        background-color: #edffed;
       }
 
       10% {
-        background-color: #FAF4EB;
+        background-color: #fff8fe;
       }
 
       20% {
-        background-color: #F8F5EA;
+        background-color: #d7ebfa;
       }
 
       30% {
-        background-color: #FCEEF5;
+        background-color: #f6fffd;
       }
 
       40% {
@@ -31,26 +34,26 @@ body {
       }
 
       50% {
-        background-color: #fff;
+        background-color: #d7faed;
       }
 
       60% {
-        background-color: #f7fbff;
+        background-color: #dffffb;
       }
 
       70% {
-        background-color: #f5fffb;
+        background-color: #d7ebfa;
       }
       80% {
-        background-color: #fffdf6;
+        background-color: #fff4ff;
       }
 
       90% {
-        background-color: #f7fffc;
+        background-color: #d7faed;
       }
 
       100% {
-        background-color: #f6fffc;
+        background-color: #f2fcf2;
       }
     }
   }
