@@ -11,10 +11,10 @@ export const headData = {
 export const heroData = {
   title: 'Hi, I am',
   name: 'Leonard Ugorji',
-  subtitle: 'A UX-UI and coding designer improving the lives of others.',
+  // subtitle: 'A UX-UI and coding designer improving the lives of others.',
   // subtitle: 'A UX and Coding Designer who help people use products easily.',
   // subtitle: 'A UX and Coding Designer creating seamless products',
-  // subtitle: 'A UX and Coding Designer creating delightful user stories',
+  subtitle: 'A UX-UI and Coding Designer creating delightful user stories',
   cta: 'Know more',
 };
 
