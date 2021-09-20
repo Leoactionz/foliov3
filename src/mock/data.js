@@ -11,19 +11,22 @@ export const headData = {
 export const heroData = {
   title: 'Hi, I am',
   name: 'Leonard Ugorji',
-  subtitle: 'A UX and Coding Designer creating delightful user stories',
+  subtitle: 'A UX-UI and coding designer improving the lives of others.',
+  // subtitle: 'A UX and Coding Designer who help people use products easily.',
+  // subtitle: 'A UX and Coding Designer creating seamless products',
+  // subtitle: 'A UX and Coding Designer creating delightful user stories',
   cta: 'Know more',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'LeonardProfile.jpg',
   paragraphOne:
-    'Leonard Ugorji is a Coding designer and Content Creator; who unintentionally started his career in the university, skipping lessons to design on Maya.',
+    'Leonard Ugorji is a Coding Designer and Content Creator; who unintentionally started his career in the university, skipping lessons to design on Maya.',
   paragraphTwo:
     'He is currently a UX Designer at Centric Gateway working with the SeerBit Team. Leo is a founding member of the Inspire Innovative Cohort — a technology driven product innovation and development team, we design digital products to meet commercial needs.',
   paragraphThree:
-    'I like being challenged and there is always an opportunity to learn something new in web development and that is what gets me excited about this industry. Also contribute to an open source project by proffer solutions. At my leisure, favorite things I do is playing table tennis, basketball, and spending time with friends and family.',
+    'I like being challenged creating that opportunity to learn something new and that is what gets me excited about this industry. Also contribute to an open source project to proffer solutions. At my leisure, I play table tennis, basketball, and spend time with friends & family.',
   resume: 'https://drive.google.com/file/d/1jGhUuiOchl2q4Hy_6mc5fjQPzBlu6T5Q/view?usp=sharing', // if no resume, the button will not show up
 };
 
@@ -31,42 +34,40 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'Blinqpay Landing page Case Study',
-    info: 'Landing Page is the first point of contact online for your brand, product or service which makes it the easiest way to get more customers.',
-    info2:
-      'With just an Idea, you can measure your target audience interest before building the actual product.',
-    url: 'https://leohimsef.medium.com/blinqpay-a-conversion-optimized-landing-page-ui-ux-case-study-d7afbbb64cae',
-    // repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: 'Unihelt Medical System',
-    info: 'Patients find it difficult to see a doctor majorly in Nigeria. Aside from COVID 19,  a lot of people still require other medication attention',
-    info2:
-      "A platform will be needed to provide for the patients' needs in terms of consultation, getting prescribed drugs, locating nearby labs for testing, and health tips to enable individuals to stay healthy",
-    url: 'https://uxfol.io/project/049dd3ee/Unihelt---Manage-waiting-time-at-hospitals',
-    // repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
+    img: 'SeerBit.jpg',
     title: 'Encouraging Payment without boundaries',
-    info: "Here's where I currently build payment system with promising features.",
-    info2:
-      'At SeerBit, payment is made seamless to cater for every business. Tailoring payment options which meets the users and their shoppers need.',
+    info: "Here's where I currently build diverse payment features. At SeerBit, payment is seamless and tailored to meet individuals need. ",
+    info2: 'UI/UX DESIGN | CUSTOMER-FACING APP',
     url: 'https://seerbit.com/',
     repo: 'https://github.com/seerbit', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'profile.jpg',
-    title: 'UI Designs',
-    info: 'Portfolio of some UI projects I played with since 2019. Including some open source projects where I contributed',
-    info2: '',
-    url: 'https://dribbble.com/mLeoUC',
-    repo: 'https://github.com/mikhael28/paretOS', // if no repo, the button will not show up
+    img: 'Blinqpay.jpg',
+    title: 'Embracing effective and simple ways to attract more customers.',
+    info: "Here's my opinion about landing page which is the first touch point for your brand, product or service.",
+    info2: 'UI/UX DESIGN | CUSTOMER-FACING APP',
+    url: 'https://mleouc.medium.com/blinqpay-a-conversion-optimized-landing-page-ui-ux-case-study-d7afbbb64cae',
+    // repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Unihelt.jpg',
+    title: 'Reducing the wait time at the health providers',
+    info: 'Here is how I help patients minimize the time spent waiting to see a doctor.',
+    info2: 'UI/UX DESIGN',
+    url: 'https://uxfol.io/project/049dd3ee/Unihelt---Manage-waiting-time-at-hospitals',
+    // repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'UbaOpenAPI.jpg',
+    title: 'Enhancing financial services and processes in Africa',
+    info: "Here's I helped the Nigerian pan-African financial services group revolutionize banking APIs",
+    // info: 'Portfolio of some UI projects I played with since 2019. Including some open source projects where I contributed',
+    info2: 'UI/UX DESIGN | CUSTOMER-FACING APP | HTML | CSS | REACT | Bootstrap',
+    url: 'https://developer.ubaopenbanking.com/',
+    // repo: 'https://github.com/mikhael28/paretOS', // if no repo, the button will not show up
   },
 ];
 
