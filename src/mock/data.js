@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Leonard Ugorji | UX Designer and Developer', // e.g: 'Name | Developer'
+  title: 'Leonard Ugorji | UX Engineer', // e.g: 'Name | Developer'
   lang: 'en, es, fr, jp', // e.g: en, es, fr, jp
   description: 'Welcome to the UX and Coding Designer Portfolio', // e.g: Welcome to my website
 };
@@ -14,7 +14,7 @@ export const heroData = {
   // subtitle: 'A UX-UI and coding designer improving the lives of others.',
   // subtitle: 'A UX and Coding Designer who help people use products easily.',
   // subtitle: 'A UX and Coding Designer creating seamless products',
-  subtitle: 'A UX-UI and Coding Designer creating delightful user stories',
+  subtitle: 'A UX Engineer creating delightful user stories',
   cta: 'Know more',
 };
 
@@ -24,10 +24,10 @@ export const aboutData = {
   paragraphOne:
     'Leonard Ugorji is a Coding Designer and Content Creator; who unintentionally started his career in the university, skipping lessons to design on Maya.',
   paragraphTwo:
-    'He is currently a UX Designer at Centric Gateway working with the SeerBit Team. Leo is a founding member of the Inspire Innovative Cohort — a technology driven product innovation and development team, we design digital products to meet commercial needs.',
+    'He is currently a UX Designer at Centric Gateway working with the SeerBit Team. Leo is a founding member of the Inspire Innovative Cohort. Leo enjoy building high quality applications and at the moment learning reactjs',
   paragraphThree:
-    'I like being challenged creating that opportunity to learn something new and that is what gets me excited about this industry. Also contribute to an open source project to proffer solutions. At my leisure, I play table tennis, basketball, and spend time with friends & family.',
-  resume: 'https://drive.google.com/file/d/1jGhUuiOchl2q4Hy_6mc5fjQPzBlu6T5Q/view?usp=sharing', // if no resume, the button will not show up
+    'Leo like being challenged especially when it creates that opportunity to learn something new and that is what gets me excited about this industry. Also contribute to an open source project to proffer solutions. At my leisure, I play table tennis, basketball, and spend time with friends & family.',
+  resume: 'https://drive.google.com/file/d/1M2tUgH2d9eOw69kcCOWw3746BCuRQIrD/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
