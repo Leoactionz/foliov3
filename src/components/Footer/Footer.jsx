@@ -35,7 +35,7 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} Leonard Ugorji.{' '}
-          <a href="https://github.com/mleouc" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/leoucon" target="_blank" rel="noopener noreferrer">
             All rights reserved.
           </a>
         </p>
