@@ -51,7 +51,7 @@ const About = () => {
                   {/* {paragraphTwo || ''} */}
                   Leo is currently a UX Designer at Centric Gateway working with the SeerBit Team.
                   He is a founding member of the{' '}
-                  <a href="url" className="text-link">
+                  <a href="https://www.linkedin.com/groups/8737901/" className="text-link">
                     Inspire Innovative Cohort
                   </a>
                   . He enjoys building high-quality applications and is learning ReactJS at the
@@ -62,7 +62,7 @@ const About = () => {
                   Leo likes being challenged especially when it creates that opportunity to learn
                   something new—that&apos;s what excites him about this industry. He&apos;s also a
                   contributor to the{' '}
-                  <a href="url" className="text-link">
+                  <a href="https://github.com/mikhael28/paretOS" className="text-link">
                     ParetoOS open source project
                   </a>{' '}
                   . At his leisure, he plays table tennis, basketball, and spends time with his
