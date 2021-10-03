@@ -23,10 +23,8 @@ export const aboutData = {
   img: 'LeonardProfile.jpg',
   paragraphOne:
     'Leonard Ugorji is a UX/UI Designer and UI Developer, who unintentionally started his career in the university. Fun fact: He skipped lessons to design on Maya. 😄',
-  paragraphTwo:
-    'Leo is currently a UX Designer at Centric Gateway working with the SeerBit Team. He is a founding member of the Inspire Innovative Cohort. He enjoys building high-quality applications and is learning ReactJS at the moment.',
-  paragraphThree:
-    "Leo likes being challenged especially when it creates that opportunity to learn something new—that's what excites him about this industry. He's also a contributor to the ParetoOS open source project. At his leisure, he plays table tennis, basketball, and spends time with his family and friends.",
+  paragraphTwo: '',
+  paragraphThree: '',
   resume: 'https://drive.google.com/file/d/1M2tUgH2d9eOw69kcCOWw3746BCuRQIrD/view?usp=sharing', // if no resume, the button will not show up
 };
 

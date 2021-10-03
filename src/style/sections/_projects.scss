@@ -10,14 +10,21 @@
   }
 
   .project-wrapper {
-    margin-bottom: 15rem;
+    margin-bottom: 22rem;
+    margin-top: 10rem;
 
     @include respond(phone) {
       margin-bottom: 0rem;
+      margin-top: 0rem;
+    }
+
+    h2 {
+      margin-bottom: 7rem;
     }
 
     .row {
-      margin-bottom: 8rem;
+      margin-bottom: 15rem;
+      // margin-top: 18rem;
 
       @include respond(phone) {
         margin-bottom: 4rem;
