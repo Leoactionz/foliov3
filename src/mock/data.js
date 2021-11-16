@@ -45,7 +45,7 @@ export const projectsData = [
     title: 'Embracing effective and simple ways to attract more customers.',
     info: 'Opinion about landing page which is the first touch point for your brand, product or service.',
     info2: 'UI/UX DESIGN | CUSTOMER-FACING APP',
-    url: 'https://leopatred.medium.com/blinqpay-a-conversion-optimized-landing-page-ui-ux-case-study-d7afbbb64cae',
+    url: 'https://leouonline.medium.com/blinqpay-a-conversion-optimized-landing-page-ui-ux-case-study-d7afbbb64cae',
     // repo: '', // if no repo, the button will not show up
   },
   {
@@ -82,12 +82,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: 'https://twitter.com/leopatred',
+      url: 'https://twitter.com/leouonline',
     },
     {
       id: nanoid(),
       name: 'dribbble',
-      url: 'https://dribbble.com/leopatred',
+      url: 'https://dribbble.com/leouonline',
     },
     // {
     //   id: nanoid(),
@@ -102,7 +102,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: 'https://github.com/leopatred',
+      url: 'https://github.com/leouonline',
     },
   ],
 };
