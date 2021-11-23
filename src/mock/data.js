@@ -32,12 +32,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'SeerBit.jpg',
-    title: 'Encouraging Payment without boundaries',
-    info: 'Currently build diverse payment features. At SeerBit, payment is seamless and tailored to meet individuals need. ',
-    info2: 'UI/UX DESIGN | CUSTOMER-FACING APP',
-    url: 'https://seerbit.com/',
-    repo: 'https://github.com/seerbit', // if no repo, the button will not show up
+    img: 'Unihelt.jpg',
+    title: 'Reducing the wait time at the health providers',
+    info: 'Helps patients minimize the time spent waiting to see a doctor.',
+    info2: 'UI/UX DESIGN',
+    url: 'https://uxfol.io/project/049dd3ee/Unihelt---Manage-waiting-time-at-hospitals',
+    // repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -50,12 +50,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Unihelt.jpg',
-    title: 'Reducing the wait time at the health providers',
-    info: 'Helps patients minimize the time spent waiting to see a doctor.',
-    info2: 'UI/UX DESIGN',
-    url: 'https://uxfol.io/project/049dd3ee/Unihelt---Manage-waiting-time-at-hospitals',
-    // repo: '', // if no repo, the button will not show up
+    img: 'SeerBit.jpg',
+    title: 'Encouraging Payment without boundaries',
+    info: 'Currently build diverse payment features. At SeerBit, payment is seamless and tailored to meet individuals need. ',
+    info2: 'UI/UX DESIGN | CUSTOMER-FACING APP',
+    url: 'https://seerbit.com/',
+    repo: 'https://github.com/seerbit', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
