@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Leonard Ugorji | UX Engineer', // e.g: 'Name | Developer'
+  title: 'Leonard Ugorji | UX Designer', // e.g: 'Name | Developer'
   lang: 'en, es, fr, jp', // e.g: en, es, fr, jp
   description: 'Welcome to the UX and Coding Designer Portfolio', // e.g: Welcome to my website
 };
