@@ -89,6 +89,11 @@ export const footerData = {
       name: 'dribbble',
       url: 'https://dribbble.com/leouonline',
     },
+    {
+      id: nanoid(),
+      name: 'medium',
+      url: 'https://medium.com/leouonline',
+    },
     // {
     //   id: nanoid(),
     //   name: 'codepen',
@@ -96,13 +101,13 @@ export const footerData = {
     // },
     {
       id: nanoid(),
-      name: 'linkedin',
-      url: 'https://www.linkedin.com/in/leoucon/',
+      name: 'github',
+      url: 'https://github.com/leouonline',
     },
     {
       id: nanoid(),
-      name: 'github',
-      url: 'https://github.com/leouonline',
+      name: 'linkedin',
+      url: 'https://www.linkedin.com/in/leoucon/',
     },
   ],
 };
