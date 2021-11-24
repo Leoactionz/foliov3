@@ -14,7 +14,7 @@ export const heroData = {
   // subtitle: 'A UX-UI and coding designer improving the lives of others.',
   // subtitle: 'A UX and Coding Designer who help people use products easily.',
   // subtitle: 'A UX and Coding Designer creating seamless products',
-  subtitle: 'A devzgner, designer + developer creating delightful user stories',
+  subtitle: 'A UX Designer creating delightful user stories',
   cta: 'Know more',
 };
 
