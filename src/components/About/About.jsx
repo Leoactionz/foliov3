@@ -44,8 +44,8 @@ const About = () => {
 
                 {paragraphTwo || (
                   <p className="about-wrapper__info-text">
-                    Leo is currently a UX Designer at Centric Gateway working with the SeerBit Team.
-                    He is a founding member of the
+                    Currently designing at Centric Gateway working with the SeerBit Team. I am a
+                    founding member of the
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
@@ -54,16 +54,16 @@ const About = () => {
                     >
                       Inspire Innovative Cohort
                     </a>
-                    . He enjoys building high-quality applications and is learning ReactJS at the
+                    . I enjoy building high-quality applications and I am learning ReactJS at the
                     moment.
                   </p>
                 )}
 
                 {paragraphThree || (
                   <p className="about-wrapper__info-text">
-                    Leo likes being challenged especially when it creates that opportunity to learn
-                    something new—that&apos;s what excites him about this industry. He&apos;s also a
-                    contributor to the{' '}
+                    I like being challenged especially when it creates that opportunity to learn
+                    something new—that&apos;s what excites me about this industry. I also contribute
+                    to the{' '}
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
@@ -72,8 +72,8 @@ const About = () => {
                     >
                       ParetoOS open source project
                     </a>{' '}
-                    . At his leisure, he plays table tennis, basketball, and spends time with his
-                    family and friends.
+                    . At my free time, I play table tennis or basketball, and I spend quality time
+                    with my family and friends.
                   </p>
                 )}
 

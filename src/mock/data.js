@@ -22,7 +22,7 @@ export const heroData = {
 export const aboutData = {
   img: 'LeonardProfile.jpg',
   paragraphOne:
-    'Leonard Ugorji is a UX/UI Designer and UI Developer, who unintentionally started his career in the university. Fun fact: He skipped lessons to design on Maya. 😄',
+    'I am a UX/UI Designer and UI Developer, unintentionally started my career in the university. Fun fact: I skipped lessons to design on Maya. 😄',
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://drive.google.com/file/d/1M2tUgH2d9eOw69kcCOWw3746BCuRQIrD/view?usp=sharing', // if no resume, the button will not show up
@@ -92,7 +92,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'medium',
-      url: 'https://medium.com/leouonline',
+      url: 'https://leouonline.medium.com/',
     },
     // {
     //   id: nanoid(),
