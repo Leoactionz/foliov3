@@ -25,7 +25,7 @@ export const aboutData = {
     'I am a UX/UI Designer and UI Developer, unintentionally started my career in the university. Fun fact: I skipped lessons to design on Maya. 😄',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://drive.google.com/file/d/1M2tUgH2d9eOw69kcCOWw3746BCuRQIrD/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/18I38RHQzj0XiLb6PT33Fjh4GC9tfIk7R/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
