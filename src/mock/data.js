@@ -82,17 +82,17 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: 'https://twitter.com/leouonline',
+      url: 'https://twitter.com/leoactions',
     },
     {
       id: nanoid(),
       name: 'dribbble',
-      url: 'https://dribbble.com/leouonline',
+      url: 'https://dribbble.com/leoactions',
     },
     {
       id: nanoid(),
       name: 'medium',
-      url: 'https://leouonline.medium.com/',
+      url: 'https://leoactions.medium.com/',
     },
     // {
     //   id: nanoid(),
@@ -102,12 +102,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: 'https://github.com/leouonline',
+      url: 'https://github.com/leoactions',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/leoucon/',
+      url: 'https://www.linkedin.com/in/leoactions/',
     },
   ],
 };
