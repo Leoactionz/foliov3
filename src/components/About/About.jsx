@@ -45,7 +45,7 @@ const About = () => {
                 {paragraphTwo || (
                   <p className="about-wrapper__info-text">
                     Currently designing at Centric Gateway working with the SeerBit Team. I am a
-                    founding member of the
+                    founding member of the{' '}
                     <a
                       target="_blank"
                       rel="noopener noreferrer"

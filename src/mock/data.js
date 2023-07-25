@@ -20,7 +20,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'LeonardProfile.jpg',
+  img: 'LeoImage.jpg',
   paragraphOne:
     'I am a UX/UI Designer and UI Developer, unintentionally started my career in the university. Fun fact: I skipped lessons to design on Maya. 😄',
   paragraphTwo: '',
@@ -65,6 +65,16 @@ export const projectsData = [
     // info: 'Portfolio of some UI projects I played with since 2019. Including some open source projects where I contributed',
     info2: 'UI/UX DESIGN | CUSTOMER-FACING APP | HTML | CSS | REACT | Bootstrap',
     url: 'https://developer.ubaopenbanking.com/',
+    // repo: 'https://github.com/mikhael28/paretOS', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'LeoImage.jpg',
+    title: 'Examplseslajdlf asldfajd falsdjfa ',
+    info: 'Helped the Nigerian pan-African financial services group revolutionize banking APIs',
+    // info: 'Portfolio of some UI projects I played with since 2019. Including some open source projects where I contributed',
+    info2: 'ugyhjkk uhikioj iok[[p',
+    url: ' ',
     // repo: 'https://github.com/mikhael28/paretOS', // if no repo, the button will not show up
   },
 ];
