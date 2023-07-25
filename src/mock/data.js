@@ -67,16 +67,6 @@ export const projectsData = [
     url: 'https://developer.ubaopenbanking.com/',
     // repo: 'https://github.com/mikhael28/paretOS', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'LeoImage.jpg',
-    title: 'Examplseslajdlf asldfajd falsdjfa ',
-    info: 'Helped the Nigerian pan-African financial services group revolutionize banking APIs',
-    // info: 'Portfolio of some UI projects I played with since 2019. Including some open source projects where I contributed',
-    info2: 'ugyhjkk uhikioj iok[[p',
-    url: ' ',
-    // repo: 'https://github.com/mikhael28/paretOS', // if no repo, the button will not show up
-  },
 ];
 
 // CONTACT DATA
@@ -92,17 +82,17 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: 'https://twitter.com/leoactions',
+      url: 'https://twitter.com/leoactionz',
     },
     {
       id: nanoid(),
       name: 'dribbble',
-      url: 'https://dribbble.com/leoactions',
+      url: 'https://dribbble.com/leoactionz',
     },
     {
       id: nanoid(),
       name: 'medium',
-      url: 'https://leoactions.medium.com/',
+      url: 'https://leoactionz.medium.com/',
     },
     // {
     //   id: nanoid(),
@@ -112,12 +102,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: 'https://github.com/leoactions',
+      url: 'https://github.com/leoactionz',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/leoactions/',
+      url: 'https://www.linkedin.com/in/leoactionz/',
     },
   ],
 };

@@ -1,3 +1,17 @@
+## Returning🔧
+
+```bash
+# To continue development
+$ npm run-script develop
+
+# Build project
+$ npm run-script build
+
+# Deploy to production
+$ netlify deploy -p
+
+```
+
 # Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
 ## A clean, beautiful and responsive portfolio template for Developers
