@@ -7,8 +7,6 @@ $ npm run-script develop
 # Build project
 $ npm run-script build
 
-# Deploy to production
-$ netlify deploy -p
 
 ```
 
